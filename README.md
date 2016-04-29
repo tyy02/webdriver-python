@@ -1,5 +1,5 @@
 # Webdriver-python
-A Docker image includes python 2.7, selenium 2.52.0 and firefox 45.0.2. It uses Firefox as the driver.Dockerfile.
+A Docker image includes python 2.7, selenium 2.52.0 and firefox 45.0.2. It uses Firefox as the driver. [Dockerfile](https://github.com/tyy02/webdriver-python/blob/master/Dockerfile)
 
 # Run image
 There are two test cases in the main.py test file and each case tests a keyword searching in www.baidu.com.
